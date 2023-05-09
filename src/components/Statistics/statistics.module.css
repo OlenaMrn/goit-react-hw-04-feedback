@@ -1,0 +1,11 @@
+.statswrap {
+    margin: 0 auto;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.stats{
+text-align: center;
+}
