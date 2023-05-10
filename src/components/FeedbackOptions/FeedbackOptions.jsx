@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styles from './FeedbackOptions.module.css';
 
 
-export const FeedbackOptions = ({ handleClick }) => {
+export function FeedbackOptions ({ handleClick })  {
   return (
     <div>
       <button
