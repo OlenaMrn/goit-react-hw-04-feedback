@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OlenaMrn.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/OlenaMrn.github.io/goit-react-hw-04-feedback/static/js/main.07d3183d.js",
-    "index.html": "/OlenaMrn.github.io/goit-react-hw-04-feedback/index.html",
-    "main.7acaea2f.css.map": "/OlenaMrn.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/OlenaMrn.github.io/goit-react-hw-04-feedback/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.9e491ff0.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.7d725f1d.js",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.9e491ff0.css.map": "/goit-react-hw-04-feedback/static/css/main.9e491ff0.css.map",
+    "main.7d725f1d.js.map": "/goit-react-hw-04-feedback/static/js/main.7d725f1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9e491ff0.css",
+    "static/js/main.7d725f1d.js"
   ]
 }
